@@ -1,3 +1,5 @@
+<img src="https://travis-ci.org/isddxy/FirstNuxtJS.svg?branch=master">
+
 # codesandbox-nuxt
 
 > Nuxt starter for CodeSandBox (used for https://template.nuxtjs.org)
