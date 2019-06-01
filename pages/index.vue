@@ -6,7 +6,7 @@
         NUXT
         <span class="green">JS</span>
       </h1>
-      <h2 class="subtitle">Start Page</h2>Не буду сосать. будешь. Ок да ss
+      <h2 class="subtitle">Start Page</h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation
           <IconLink/>
